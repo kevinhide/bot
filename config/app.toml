@@ -1,0 +1,4 @@
+[development]
+mongo_Url = "mongodb://localhost:27017/keprevosproductv2"
+port = "8082"
+mongo_DB = "keprevosproductv2"
